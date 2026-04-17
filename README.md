@@ -1,6 +1,6 @@
 # All Restaurants in Westminster, Colorado, US
 
-> Free BeamStation sample export with 33 rows and masked direct-contact fields.
+> Free BeamStation sample export with 32 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `349384` |
 | Location | Westminster |
 | Category | Restaurants |
-| Full dataset size | 332 records |
-| Free sample size | 33 records (9.94%) |
-| Last export | 2026-04-07T11:33:44.595994+00:00 |
+| Full dataset size | 324 records |
+| Free sample size | 32 records (9.88%) |
+| Last export | 2026-04-14T11:32:06.737330+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-westminster-colorado-us-sample-349384/releases/download/sample-latest/beamstation_349384_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
