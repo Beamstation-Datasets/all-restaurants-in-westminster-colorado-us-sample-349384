@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2222ec10-b56a-4cf4-a296-0a08e31e1ab3",
+  "export_job_id": "166726da-dd9a-4343-a753-7e89fbdbbe2e",
   "id_short": 349384,
-  "published_at": "2026-04-28T19:36:12Z",
+  "published_at": "2026-05-06T07:04:56Z",
   "repo_name": "all-restaurants-in-westminster-colorado-us-sample-349384",
   "sample_asset_name": "beamstation_349384_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/349384/beamstation_349384_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 32,
-  "sample_sha256": "852f270b087f2df6fbc368218f89a1dc42d98fe49282bc1764b1d59368cf1d59",
-  "sample_size_bytes": 122619,
-  "total_records": 320
+  "sample_records": 34,
+  "sample_sha256": "1c5a909d47ba1b9a836a74959ccb6b335dab6235b50b400d17a059e668fd2ca1",
+  "sample_size_bytes": 147630,
+  "total_records": 340
 }
